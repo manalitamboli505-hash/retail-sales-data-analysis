@@ -67,5 +67,3 @@ The script prints summary metrics and saves charts and CSV summaries in `outputs
 - Add a dashboard using Power BI or Streamlit.
 - Compare discount levels with estimated profit, carefully noting that correlation does not establish causation.
 
-## Portfolio integrity
-If you publish this project, describe it as a practice project using synthetic data. Review the code, run it yourself, and be prepared to explain the cleaning choices and charts in an interview.
